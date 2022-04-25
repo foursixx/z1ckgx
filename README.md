@@ -4,7 +4,7 @@ Olá! Meu nickname é **z1ck**, iniciei meus estudos como Desenvolvedor em 2021.
 
 - 🔭 No momento estou me aprofundando na linguagem Python.
 
-![](https://pa1.narvii.com/6760/b2580b5e5aa1999dfc70c91de0e49271422a8d1b_hq.gif)
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2bd6a917-c3cf-4265-bc11-8c2c6fa26d87/d9fxapy-c57020ca-fbb3-4822-830e-dc6a39c5af59.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiZDZhOTE3LWMzY2YtNDI2NS1iYzExLThjMmM2ZmEyNmQ4N1wvZDlmeGFweS1jNTcwMjBjYS1mYmIzLTQ4MjItODMwZS1kYzZhMzljNWFmNTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.C9yqplG2zelv6AKRvYdldBdS0USXKplb9kZYYM6N3gU)
 
 Linguagens
 
